@@ -82,7 +82,7 @@ class Home{
         }
 
 
-
+//good code
         public function category($id)
         {
             $db = new DataBase();
